@@ -1,0 +1,1 @@
+{"name":"Local: L","url":"d:\\vscode_\\2026\\L.cpp","tests":[{"id":1792747435123,"input":"2\n3 15\n75 50 5\n50 100 10\n25 200 15\n2 10\n50 10 100\n70 30 1000","output":"68.750000000000\n0.000000000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode_\\2026\\L.cpp","group":"local","local":true}

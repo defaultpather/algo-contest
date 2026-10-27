@@ -1,0 +1,1 @@
+{"name":"Local: baidu1","url":"d:\\vscode_\\2026牛客多校\\8\\baidu1.cpp","tests":[{"id":1787326202452,"input":"1\n10 100\n97 135 103 130 147 89 93 215 175 261","output":"219"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode_\\2026牛客多校\\8\\baidu1.cpp","group":"local","local":true}

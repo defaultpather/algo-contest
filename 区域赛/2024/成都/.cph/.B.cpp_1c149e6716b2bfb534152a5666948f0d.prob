@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\vscode_\\2026\\区域赛\\2024\\成都\\B.cpp","tests":[{"id":1792985474871,"input":"6 3\na?b??c\n2 2 2\n1 1 1\n1 0 2","output":"3\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode_\\2026\\区域赛\\2024\\成都\\B.cpp","group":"local","local":true}

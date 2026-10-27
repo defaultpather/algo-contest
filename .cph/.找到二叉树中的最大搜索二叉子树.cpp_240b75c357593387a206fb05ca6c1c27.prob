@@ -1,0 +1,1 @@
+{"name":"Local: 找到二叉树中的最大搜索二叉子树","url":"d:\\vscode_\\2026牛客多校\\8\\找到二叉树中的最大搜索二叉子树.cpp","tests":[{"id":1790923678971,"input":"3 2\n2 1 3\n1 0 0\n3 0 0","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode_\\2026牛客多校\\8\\找到二叉树中的最大搜索二叉子树.cpp","group":"local","local":true}

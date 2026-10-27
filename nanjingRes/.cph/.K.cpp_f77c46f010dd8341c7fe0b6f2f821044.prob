@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"d:\\vscode_\\2026牛客多校\\8\\nanjingRes\\K.cpp","tests":[{"id":1791957017684,"input":"3\n1 5 2 5\n1 1 2 3\n2 2 4 4","output":"YES\nNO\nYES"},{"id":1791958918473,"input":"1\n1 5 2 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode_\\2026牛客多校\\8\\nanjingRes\\K.cpp","group":"local","local":true}

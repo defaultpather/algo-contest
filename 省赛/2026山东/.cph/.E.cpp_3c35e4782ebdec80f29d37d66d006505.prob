@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\vscode_\\2026\\省赛\\2026山东\\E.cpp","tests":[{"id":1792501358807,"input":"3\n3 4\n1 3\n2 3","output":"Yes\n4 9 7 1\n10 0 5 3\n6 2 11 8\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode_\\2026\\省赛\\2026山东\\E.cpp","group":"local","local":true}

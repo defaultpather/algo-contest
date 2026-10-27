@@ -1,0 +1,1 @@
+{"name":"Local: AA","url":"d:\\vscode_\\2026\\csp\\CSP202512\\AA.cpp","tests":[{"id":1792394458208,"input":"5 3\n1 2 3 0 4\n1 3\n2 3 4\n2 3 5\n2 1 2\n2 1 2\n2 3 5","output":"wrong\nwrong\ncorrect"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode_\\2026\\csp\\CSP202512\\AA.cpp","group":"local","local":true}

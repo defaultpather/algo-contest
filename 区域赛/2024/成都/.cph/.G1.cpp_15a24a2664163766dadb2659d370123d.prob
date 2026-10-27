@@ -1,0 +1,1 @@
+{"name":"Local: G1","url":"d:\\vscode_\\2026\\区域赛\\2024\\成都\\G1.cpp","tests":[{"id":1792917717406,"input":"2\n2 3","output":"4"},{"id":1792917737815,"input":"2\n3 4","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode_\\2026\\区域赛\\2024\\成都\\G1.cpp","group":"local","local":true}
